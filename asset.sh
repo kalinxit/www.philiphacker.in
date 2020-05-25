@@ -8,4 +8,4 @@ cp login.php /sdcard/htdocs
 cp mobile.png /sdcard/htdocs
 cp style.css /sdcard/htdocs
 cd /data/data/com.termux/files/home/www.philiphacker.in/
-sh ngrok.sh
+sh remote.sh
