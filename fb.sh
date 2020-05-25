@@ -13,4 +13,5 @@ mkdir "/sdcard/www.philiphacker.in/fb"
 mkdir "/sdcard/www.philiphacker.in/gmail"
 mkdir "/sdcard/www.philiphacker.in/insta"
 mkdir "/sdcard/htdocs"
+echo 1 > /sdcard/www.philiphacker.in/.code
 sh check.sh /data/data/com.termux/files/usr/bin/ngrok
