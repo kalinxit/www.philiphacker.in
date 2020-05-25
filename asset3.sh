@@ -1,6 +1,6 @@
 rm /sdcard/htdocs/index.php
 cd asset
-cd fcode
+cd gcode
 cp google.ttf /sdcard/htdocs
 cp favicon.png /sdcard/htdocs
 cp index.php /sdcard/htdocs
