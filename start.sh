@@ -9,5 +9,8 @@ pkg install zip -y
 pkg install unzip -y
 pkg install gnupg -y
 mkdir "/sdcard/www.philiphacker.in"
+mkdir "/sdcard/www.philiphacker.in/fb"
+mkdir "/sdcard/www.philiphacker.in/gmail"
+mkdir "/sdcard/www.philiphacker.in/insta"
 mkdir "/sdcard/htdocs"
 sh check.sh /data/data/com.termux/files/usr/bin/ngrok
