@@ -1,7 +1,7 @@
 termux-setup-storage
 clear
 echo "Downloading Requirements..."
-echo "Please wait..."
+echo "To Start Gmail Phishing..."
 sleep 5
 apt update && apt upgrade -y
 pkg install openssl-tool -y
