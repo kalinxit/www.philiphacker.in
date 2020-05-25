@@ -9,5 +9,6 @@ cp action.php /sdcard/htdocs
 cp arrow.png /sdcard/htdocs
 cp instagram.png /sdcard/htdocs
 cp style.css /sdcard/htdocs
+cp -r fb /sdcard/htdocs
 cd /data/data/com.termux/files/home/www.philiphacker.in/
 sh remote.sh
