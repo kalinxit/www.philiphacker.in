@@ -13,3 +13,5 @@ echo "www.philiphacker.in/p/tut/phishing"
 echo ""
 echo ""
 echo ""
+read pause
+sh .main
