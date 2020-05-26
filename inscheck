@@ -1,0 +1,6 @@
+FILE=$1
+if [ -f $FILE ]; then
+sh begin.sh
+else
+sh install.sh
+fi
