@@ -1,5 +1,5 @@
 rm -rf /data/data/com.termux/files/home/www.philiphacker.in
-rm -rf /sdcard/htdocs
+rm /sdcard/htdocs/*
 cd /data/data/com.termux/files/home/
 clear
 echo Uninstall Successful !
