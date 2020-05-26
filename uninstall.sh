@@ -1,3 +1,2 @@
 cd /sdcard/www.philiphacker.in/
-unzip uninstall.sh
-sh 
+sh uninstaller.sh
