@@ -7,7 +7,7 @@ then
 clear
 echo "No Updates Available right now !"
 read pause
-sh .main
+sh .menu
 else
 echo "Good News! New Update Available !"
 echo "Press any key to update now !"
