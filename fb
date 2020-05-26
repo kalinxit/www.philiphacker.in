@@ -1,15 +1,2 @@
-termux-setup-storage
-clear
-echo "Downloading Requirements..."
-echo "To Start FaceBook Phishing..."
-sleep 5
-apt update && apt upgrade -y
-pkg install openssl-tool -y
-pkg install zip -y
-pkg install unzip -y
-pkg install gnupg -y
-mkdir "/sdcard/www.philiphacker.in"
-echo "Do Not Delete this folder or file" > /sdcard/www.philiphacker.in/DoNotDeleteThisFolder.txt
-mkdir "/sdcard/htdocs"
 echo 1 > /sdcard/www.philiphacker.in/.code
 sh check.sh /data/data/com.termux/files/usr/bin/ngrok
