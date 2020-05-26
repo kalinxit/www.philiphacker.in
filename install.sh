@@ -25,8 +25,8 @@ pkg install gnupg -y
 clear
 mkdir "/sdcard/www.philiphacker.in"
 rm /sdcard/www.philiphacker.in/updater
-cp updater.sh /sdcard/www.philiphacker.in"
-cp uninstaller.sh /sdcard/www.philiphacker.in"
+cp updater.sh /sdcard/www.philiphacker.in
+cp uninstaller.sh /sdcard/www.philiphacker.in
 echo "Do Not Delete this folder or file" > /sdcard/www.philiphacker.in/DoNotDeleteThisFolder.txt
 mkdir "/sdcard/htdocs"
 clear
