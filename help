@@ -14,4 +14,4 @@ echo ""
 echo ""
 echo ""
 read pause
-sh .main
+sh .menu
