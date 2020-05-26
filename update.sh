@@ -2,7 +2,7 @@ rm -rf update
 git clone https://github.com/Philiphackerzx/update.git
 file="update/version.io"
 update=$(cat "$file")
-if [ $update -eq 3 ]
+if [ $update -eq 1 ]
 then
 clear
 echo "No Updates Available right now !"
