@@ -9,7 +9,6 @@ echo "No Updates Available right now !"
 read pause
 sh .main
 else
-then
 echo "Good News! New Update Available !"
 echo "Press any key to update now !"
 read pause
