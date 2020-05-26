@@ -1,4 +1,4 @@
-rm -rf test
+rm -rf update
 git clone https://github.com/Philiphackerzx/update.git
 file="update/version.io"
 update=$(cat "$file")
