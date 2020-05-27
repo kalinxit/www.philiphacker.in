@@ -199,7 +199,7 @@ border: none;
 font-weight: 600;
 }
 
-.login {
+.login:hover {
 background: #4CB5F9;
 }
 
