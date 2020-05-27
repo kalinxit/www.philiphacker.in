@@ -3,10 +3,11 @@
 <style>
 
 
-@font-face {
-  font-family: insta;
-  src: url(google.ttf);
-}
+@font-face {
+        font-family: 'google';
+        src: URL('google.ttf') format('truetype');
+    }
+
 
 
 .img {
