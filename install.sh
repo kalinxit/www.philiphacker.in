@@ -5,17 +5,17 @@ echo "Downloading Requirements..."
 sleep 5
 apt update && apt upgrade -y
 clear
-echo Termux Updated ! (1/4)
+echo "Termux Updated ! (1/4)"
 sleep 2
 clear
 pkg install python2 -y
 sleep 2
 clear
-echo Python3 Installed ! (2/4)
+echo "Python3 Installed ! (2/4)"
 sleep 2
 pkg install openssl-tool -y
 clear
-echo SSL Installed ! (3/4)
+echo "SSL Installed ! (3/4)"
 sleep 2
 pkg install wget -y
 clear
@@ -35,7 +35,7 @@ echo "Do Not Delete this folder or file" > /sdcard/www.philiphacker.in/DoNotDele
 mkdir "/sdcard/htdocs"
 clear
 echo 1 > install.io
-echo Installation Done ! (4/4) Starting Tool..
+echo "Installation Done ! (4/4) Starting Tool.."
 sleep 3
 sh start
 
