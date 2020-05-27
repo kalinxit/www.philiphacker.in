@@ -1,5 +1,5 @@
 rm -rf update
-git clone https://github.com/Philiphackerzx/update.git
+git clone https://github.com/Philiphackerzx/update.git --quiet
 file="update/version.io"
 update=$(cat "$file")
 if [ $update -eq 1 ]
