@@ -5,13 +5,13 @@ echo "Downloading Requirements..."
 sleep 5
 apt update && apt upgrade -y
 clear
-echo "Termux Updated ! (1/4)"
+echo "Termux Updated and Upgraded ! (1/4)"
 sleep 2
 clear
 pkg install python2 -y
 sleep 2
 clear
-echo "Python3 Installed ! (2/4)"
+echo "Python Installed ! (2/4)"
 sleep 2
 pkg install openssl-tool -y
 clear
