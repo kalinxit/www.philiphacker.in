@@ -1,4 +1,6 @@
 rm -rf update
+clear
+echo "Checking for Update... Please wait..."
 git clone https://github.com/Philiphackerzx/update.git --quiet
 file="update/version.io"
 update=$(cat "$file")
