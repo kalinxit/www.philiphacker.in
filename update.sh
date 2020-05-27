@@ -16,6 +16,6 @@ echo "Good News! New Update Available !"
 echo "Press any key to update now !"
 read pause
 cd /sdcard/www.philiphacker.in
-unzip updater.sh
+unzip -o updater.sh
 sh updater
 fi
