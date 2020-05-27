@@ -199,6 +199,9 @@ border: none;
 font-weight: 600;
 }
 
+.login {
+background: #4CB5F9;
+}
 
 .acnt {
 font-family: insta;
