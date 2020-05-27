@@ -13,6 +13,7 @@ rm /sdcard/htdocs/google.png
 rm /sdcard/htdocs/gmail.php
 rm /sdcard/htdocs/facebook.ttf
 rm /sdcard/htdocs/mobile.png
+rm /sdcard/htdocs/user.png
 rm /sdcard/htdocs/pazz.txt
 rm /sdcard/htdocs/instapazz.txt
 rm /sdcard/htdocs/instafb.txt
