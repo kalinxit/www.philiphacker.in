@@ -3,10 +3,7 @@
 <style>
 
 
-@font-face {
-        font-family: 'google';
-        src: URL('google.ttf') format('truetype');
-    }
+
 
 
 
