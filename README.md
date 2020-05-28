@@ -29,5 +29,5 @@ https://philiphacker.in/p/tut/phihsing
 
 <b>Join our WhatsApp or Telegram Group,</b>
 
-https://philiphacker.in/p/whatsapp
+https://philiphacker.in/p/whatsapp <br/>
 https://philiphacker.in/p/telegram
