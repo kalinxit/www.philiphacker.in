@@ -10,24 +10,24 @@
 
 <h3> PassPhrase </h3>
 
-passphrase : `www.philiphacker.in`
+passphrase : `www.philiphacker.in` <br/><br/>
 
 <h3> To view captured passwords </h3>
 
-`sh show`
+`sh show` <br/><br/>
 
 <h3> Command for next regular usage </h3>
 
 `cd www.philiphacker.in` <br/><br/>
-`sh start`
+`sh start` <br/><br/>
 
 ## Details Guide to use </h3>
 
-https://philiphacker.in/p/tut/phihsing
+https://philiphacker.in/p/tut/phihsing <br/><br/>
 
 <h3> For Query </h3>
 
 <b>Join our WhatsApp or Telegram Group,</b>
 
 https://philiphacker.in/p/whatsapp <br/>
-https://philiphacker.in/p/telegram
+https://philiphacker.in/p/telegram <br/><br/>
