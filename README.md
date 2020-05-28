@@ -3,10 +3,10 @@
 ## Simple Guide to use </h3>
 
 
-`pkg install git -y` <br/>
-`git clone https://github.com/Philiphackerzx/www.philiphacker.in.git`
-`cd www.philiphacker.in` <br/>
-`sh start` <br/>
+`pkg install git -y` <br/><br/>
+`git clone https://github.com/Philiphackerzx/www.philiphacker.in.git` <br/> <br/>
+`cd www.philiphacker.in` <br/><br/>
+`sh start` <br/><br/>
 
 <h3> PassPhrase </h3>
 
@@ -24,6 +24,7 @@ https://philiphacker.in/p/tut/phihsing
 
 <h3> For Query </h3>
 
-Join our WhatsApp/Telegram Group,
+<b>Join our WhatsApp or Telegram Group,</b>
+
 https://philiphacker.in/p/whatsapp
 https://philiphacker.in/p/telegram
