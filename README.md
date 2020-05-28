@@ -1,6 +1,6 @@
 # www.philiphacker.in
 
-## Simple Guide to use </h3>
+## Simple Guide to start (Installation) </h3>
 
 
 `pkg install git -y` <br/><br/>
@@ -16,7 +16,10 @@ passphrase : `www.philiphacker.in`
 
 `sh show`
 
+<h3> Command for next regular usage </h3>
 
+`cd www.philiphacker.in` <br/><br/>
+`sh start`
 
 ## Details Guide to use </h3>
 
