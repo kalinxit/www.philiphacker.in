@@ -8,6 +8,8 @@
 `cd www.philiphacker.in` <br/><br/>
 `sh start` <br/><br/>
 
+<b> Note : Must Run Ksweb server app before typing above commands </b> <br/><br/>
+
 <h3> PassPhrase </h3>
 
 passphrase : `www.philiphacker.in` <br/><br/>
